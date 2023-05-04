@@ -14,3 +14,8 @@
 .feedbackButton:hover {
   box-shadow: 0 0 0 2px rgb(253, 233, 236), 0 0 0 4px #54698e;
 }
+
+.buttonsSet {
+  display: flex;
+  
+}
